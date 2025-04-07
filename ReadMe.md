@@ -1,1 +1,1 @@
-# Practising GoLang from Black Hat Go book for Penetration Testing
+Practising GoLang from Black Hat Go book for Penetration Testing
